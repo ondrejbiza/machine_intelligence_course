@@ -1,5 +1,6 @@
 MI-MVI.16 SW tools setup
 ========================
+This guide you through the instalation of basic tool set necessary for the first MI-MVI class. You need at least **400 MB** of free space for virtual environment with installed tools.
 
 Lets start with python3 instalation and virtual environment (VE) for separate python instances:
 ```bash
