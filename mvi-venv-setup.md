@@ -25,5 +25,5 @@ Lastly, we will install Jupyter, a Python package for interactive notebooks, and
 
 To exit VE simply type:
 ```bash
-deactivate
+source deactivate
 ```
